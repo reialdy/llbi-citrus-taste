@@ -19,7 +19,7 @@ By capturing the backscattering profiles of Siamese citrus fruits illuminated by
 
 ## 📊 Experimental Results
 
-Our study evaluated 150 Siamese citrus samples from Cisurupan Orchards. While all wavelengths were tested, the **648 nm (Red) wavelength** demonstrated exceptional predictive capability:
+Our study evaluated 150 Siamese citrus samples from Garut, West Java Indonesia Orchards. While all wavelengths were tested, the **648 nm (Red) wavelength** demonstrated exceptional predictive capability:
 
 | Phase | Accuracy | AUC |
 | :--- | :---: | :---: |
