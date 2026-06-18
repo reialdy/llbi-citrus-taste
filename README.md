@@ -39,6 +39,6 @@ Once the codebase is fully uploaded, the repository will be organized as follows
 │   ├── preprocessing/      # Image cropping, normalization, and ROI extraction
 │   ├── model/              # ResNet50 architecture setup and custom training loops
 │   └── utils/              # Helper functions (logging, data loading, metrics evaluation)
-├── notebooks/              # Jupyter notebooks for exploratory data analysis (EDA) and plotting ROC curves
 ├── requirements.txt        # Python dependencies (TensorFlow/PyTorch, OpenCV, NumPy, etc.)
+├── LICENSE
 └── README.md
