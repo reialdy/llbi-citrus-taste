@@ -1,0 +1,16 @@
+# Deep Learning & Model Architecture
+tensorflow>=2.12.0
+
+# Image Processing & Data Augmentation
+opencv-python>=4.7.0
+imutils>=0.5.4
+
+# Data Analysis & Metrics Evaluation
+numpy>=1.23.5
+pandas>=2.0.0
+scikit-learn>=1.2.2
+openpyxl>=3.1.0        # Required by pandas to export .xlsx files
+
+# Data Visualization
+matplotlib>=3.7.1
+seaborn>=0.12.2
